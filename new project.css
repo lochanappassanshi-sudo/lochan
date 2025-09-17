@@ -1,0 +1,104 @@
+* {
+    padding: 10px;
+
+}
+
+body {
+    background-color: rgb(134, 134, 238);
+    margin-right: 40px;
+}
+
+div {
+
+    margin-left: 60px;
+    list-style: none;
+    text-transform: capitalize;
+
+
+    div {
+
+        .navbar {
+            margin-right: 200px;
+            color: aliceblue;
+            font-size: 20px;
+        }
+    }
+
+    div {
+        display: flex;
+        margin-right: 50px;
+
+        .subnav {
+            gap: 50px;
+            color: aliceblue;
+            font-size: 15px;
+            position: relative;
+            left: 220px;
+        }
+    }
+
+    button {
+        padding: 20px;
+        height: 20px 20px;
+        width: 15%;
+        background-color: rgb(41, 41, 157);
+        color: aliceblue;
+        position: relative;
+        left: 190px;
+
+    }
+}
+
+.class {
+    position: relative;
+    left: 110px;
+    margin-top: 20px;
+
+
+
+
+    h1 {
+        font-size: 40px;
+        color: aliceblue;
+        word-spacing: 15px;
+
+
+    }
+
+    h4 {
+        p {
+            font-size: 12px;
+            word-spacing: 3px;
+            position: relative;
+            right: 8px;
+            padding: 5px;
+            color: rgb(220, 233, 244);
+            font-style: calc();
+            font-size: 15px;
+        }
+    }
+
+    .btn2 {
+        width: 15%;
+        position: relative;
+        left: 7px;
+        background-color: aliceblue;
+        color: blue;
+
+
+
+    }
+
+    h3 {
+        position: relative;
+        left: 250px;
+        bottom: 73px;
+       
+    }
+
+}
+
+.right-container {
+
+    img {}
+}
